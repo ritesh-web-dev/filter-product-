@@ -149,4 +149,12 @@ h1 {
         gap: 5px; /* Adjust button gap for smaller screens */
     }
 }
+.hide{
+    display: none;
+}
+
+.active{
+    background-color: #d81b60;
+    color: #fff;
+}
 
