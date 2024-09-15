@@ -1,0 +1,50 @@
+[
+    {
+        "name": "beige Sneaker",
+        "price": 19.99,
+        "color": "beige",
+        "img": "./product_img/nike-beige-white.jpeg"
+    },
+    {
+        "name": "white beige Sneaker",
+        "price": 39.99,
+        "color": "white beige",
+        "img": "./product_img/nike-beige.jpeg"
+    },
+    {
+        "name": "green Sneaker",
+        "price": 49.99,
+        "color": "green",
+        "img": "./product_img/nike-black-green.jpeg"
+    },
+    {
+        "name": "black white Sneaker",
+        "price": 29.99,
+        "color": "black white",
+        "img": "./product_img/nike-black-white.jpeg"
+    },
+    {
+        "name": "black white Sneaker",
+        "price": 69.99,
+        "color": "black white",
+        "img": "./product_img/nike-black.jpeg"
+    },
+    {
+        "name": "blue Sneaker",
+        "price": 69.99,
+        "color": "blue",
+        "img": "./product_img/nike-blue-white.jpeg"
+    },
+    {
+        "name": "grey Sneaker",
+        "price": 69.99,
+        "color": "grey",
+        "img": "./product_img/nike-grey.jpeg"
+    },
+    {
+        "name": "white Sneaker",
+        "price": 69.99,
+        "color": "white",
+        "img": "./product_img/nike-white.jpeg"
+    }
+]
